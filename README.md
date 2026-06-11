@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-loves-embrace/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Caught In Love's Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-loves-embrace/) |
+| **Get License** | [Get License For Caught In Love's Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-loves-embrace/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d24b617fdd7c5a963a2593b559c47d150040163bed34a469c1e0fb71e5d50323` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
