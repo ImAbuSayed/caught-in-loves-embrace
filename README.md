@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-loves-embrace/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Caught In Love's Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-loves-embrace/) |
+| **Get License** | [Commercial Licensing for Caught In Love's Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-loves-embrace/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you're pulling me near
+> The rest of the world just disappears
+> Your breath on my neck, a spark in the dark
+> Leaving a fire right here in my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
